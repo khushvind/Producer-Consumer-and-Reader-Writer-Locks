@@ -1,4 +1,4 @@
-# Operating Systems Assignment 4: Producer-Consumer and Reader-Writer Locks
+# Operating Systems: Producer-Consumer and Reader-Writer Locks
 
 This repository contains implementations for two synchronization problems in C as part of the MTL458 Operating Systems course assignment:
 
