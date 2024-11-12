@@ -51,8 +51,8 @@ This part implements two types of reader-writer locks:
 ### Input/Output
 - **Input/Output File:** shared-file.txt - used by readers and writers.
 - **Output Files:**
- - `output-reader-pref.txt` for reader-preference lock.
- - `output-writer-pref.txt` for writer-preference lock.
+  - `output-reader-pref.txt` for reader-preference lock.
+  - `output-writer-pref.txt` for writer-preference lock.
 
 
 ### Compilation and Execution
